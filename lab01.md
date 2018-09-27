@@ -1,16 +1,4 @@
----
-layout: default
-title: 请将标题写在这里
----
+ssds
 
-# 我的博客标题
-
-## 1、你会使用 vscode 编辑 markdown 了吗？
-
-你会使用 git bash 创建本地空间了吗？
-
-你能拉取本文档到本地了？它在 gh-pages 分支内，设置 Slate 主题！
-
-用 vscode 编辑它，然后提交！
-
-这个文档将发布在 https://your-account.github.io/homework 中！
+ ![tupian](https://baike.baidu.com/pic/%E6%9D%BE%E6%9C%AC%E8%A1%8C%E5%BC%98/539636/0/d0526df0ca1cc8f1a40f52d9?fr=lemma&ct=single)
+ 
